@@ -1,10 +1,14 @@
 import React from 'react';
 import Table from './components/Table';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <Table>
-    </Table>
+    <div>
+      <Navbar/>
+      <Table>
+      </Table>
+    </div>
 
   );
 }
