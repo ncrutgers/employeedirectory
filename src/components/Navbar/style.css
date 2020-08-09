@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #5F4B66;
+    border-bottom: solid #A7ADC6 14px;
+    padding-bottom: 30px;
+    padding-top: 20px
+}
+.center {
+    width: 100%;
+    text-align: center;    
+}
+.text {
+    font-size: 32px;
+}
