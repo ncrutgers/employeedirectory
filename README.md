@@ -11,8 +11,8 @@ As a user, I want to be able to view my entire employee directory at once so tha
 ## Criteria
 
 * Random table of users rendered when user loads page.
-* Sort functionality by one table category.
-* Filter functionality by one user property.
+* Sort functionality by each table category.
+* Filter search functionality by one user property (name).
 
 ## Installation
 
@@ -30,4 +30,3 @@ Run the following commands for execution of application:
 npm start
 ```
 
-![AppImage]()
