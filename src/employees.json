@@ -2,43 +2,43 @@
     {
       "id": 1,
       "name": "Jenny Jones",
-      "image": "",
-      "Title": "Associate Registrar",
-      "Department": "Registrar"
+
+      "title": "Associate Registrar",
+      "department": "Registrar"
     },
     {
       "id": 2,
       "name": "Kimmy Kraft",
-      "image": "",
-      "Title": "Dean of Enrollment",
-      "Department": "Registrar"
+
+      "title": "Dean of Enrollment",
+      "department": "Registrar"
     },
     {
       "id": 3,
       "name": "William Waters",
-      "image": "",
-      "Title": "Controller",
-      "Department": "Financial Aid"
+
+      "title": "Controller",
+      "department": "Financial Aid"
     },
     {
       "id": 4,
       "name": "Trixie Dixie",
-      "image": "",
-      "Title": "Administrator",
-      "Department": "Student Affairs"
+
+      "title": "Administrator",
+      "department": "Student Affairs"
     },
     {
       "id": 5,
       "name": "Courtney Crooney",
-      "image": "",
-      "Title": "Director",
-      "Department": "Student Affairs"
+
+      "title": "Director",
+      "department": "Student Affairs"
     },
     {
       "id": 6,
       "name": "Billy Bob",
-      "image": "",
-      "Title": "Assistant Manager",
-      "Department": "Alumni Office"
+   
+      "title": "Assistant Manager",
+      "department": "Alumni Office"
     }
 ]

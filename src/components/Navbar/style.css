@@ -1,8 +1,9 @@
 .navbar {
-    background-color: #5F4B66;
+    background-color: #1443a7;
     border-bottom: solid #A7ADC6 14px;
     padding-bottom: 30px;
-    padding-top: 20px
+    padding-top: 20px;
+    border: solid rgb(11, 11, 70) 1px;
 }
 .center {
     width: 100%;
