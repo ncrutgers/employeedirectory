@@ -30,4 +30,3 @@ Run the following commands for execution of application:
 npm start
 ```
 
-![AppImage]()
